@@ -49,7 +49,7 @@ h1 {
 }
  
 #hRuler {
-    border: solid black 1px;
+    border: solid black 1vh;
     margin-top: 49vh;
     margin-bottom: 49vh;
     width: 100%;
@@ -66,7 +66,7 @@ h1 {
 #freeOrOccupiedP {
     text-align: center;
     margin-top: 17vh;
-    font-size: 45px;
+    font-size: 10vmin;
 }
 
 #whoIsNext {
@@ -75,4 +75,5 @@ h1 {
     width: 100%;
     float: bottom;;
     position: absolute;
+    font-size: 5vmin;
 }
